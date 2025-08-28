@@ -1,4 +1,4 @@
-| oRTB fieldComing from upstream request | oRTB fieldWhen sending requests to our bidders | Type / Example | Specs | Status | oRTB / SSPs / DSPs support & recommendation |
+| oRTB field Coming from upstream request | oRTB field When sending requests to our bidders | Type / Example | Specs | Status | oRTB / SSPs / DSPs support & recommendation |
 | --- | --- | --- | --- | --- | --- |
 | id | id | string | Internally controlled - Unique uuid generated | Fully implemented | oRTB - Required |
 | - | test | integer 0 or 1 | Internally controlled | Fully implemented | oRTB - Optional |
@@ -69,7 +69,7 @@
 | {site\|app}.content.cat | {site\|app}.content.cat | string[] | Note that no matter the version of IAB cats we receive, we always give the IAB v1 equivalent to our bidders (if we can map >= v2 to v1) | Fully implemented | oRTB - Optional (CTV) |
 | {site\|app}.content.cattax | {site\|app}.content.cattax | integer We support 1, 2, 5 and 6 | Follows oRTB spec | Fully implemented | oRTB - Optional |
 | {site\|app}.content.language | {site\|app}.content.language | string Example: fr | Follows oRTB spec | Fully implemented | oRTB - Optional |
-| {site\|app}.content.context | {site\|app}.content.context | integer | Yes Hardcoded to 1 | Follows oRTB spec | Fully implemented | oRTB - Optional |
+| {site\|app}.content.context | {site\|app}.content.context | integer | Follows oRTB spec | Fully implemented | oRTB - Optional |
 | {site\|app}.content.livestream | {site\|app}.content.livestream | integer 0 or 1 | Follows oRTB spec | Fully implemented | oRTB - Optional |
 | {site\|app}.content.len | {site\|app}.content.len | integer | Follows oRTB spec | Fully implemented | oRTB - Optional |
 | {site\|app}.content.keywords | {site\|app}.content.keywords | string Comma separated per keyword | Follows oRTB spec | Fully implemented | oRTB - Optional |

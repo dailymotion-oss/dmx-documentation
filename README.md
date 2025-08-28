@@ -1,10 +1,11 @@
 # DMX-documentation
 
-![](DMX.png)
-
-[Dailymotion Advertising](https://dailymotionadvertising.com/)
+[![](DMX.png)](https://dailymotionadvertising.com/)
 
 ## Direct Integration
+
+## How to access to oRTB endpoint
+Please contact [Dailymotion Advertising](https://dailymotionadvertising.com/contact/)
 
 ### OpenRTB 2.5
 
