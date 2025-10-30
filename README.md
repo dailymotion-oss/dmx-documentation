@@ -1,6 +1,6 @@
 # DMX-documentation
 
-[![](DMX.png)](https://dailymotionadvertising.com/)
+[![](DMexchange.png)](https://dailymotionadvertising.com/)
 
 ## Direct Integration
 
